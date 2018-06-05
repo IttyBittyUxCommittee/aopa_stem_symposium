@@ -1,3 +1,3 @@
 # AOPA STEM Symposium 2018
 
-## Content is NOT CURRENT.
+Content is NOT CURRENT.
